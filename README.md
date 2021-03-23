@@ -17,7 +17,7 @@ The technologies I'm learning and am interested in at the moment include, but ar
 ## Some additional info
 - 🎮 I like to play videogames in my spare time, especially if they are competitive in nature.
 - 🖥️ I'm a PC gamer!
-- 🏈 I've played flag (american) footbal for my university's team 
+- 🏈 I've played flag (american) football for my university's team 
 
 ## External links
 - <a href="https://www.linkedin.com/in/gabriel-fernandes-rosa-bojikian-688b84164">Linkedin</a>
