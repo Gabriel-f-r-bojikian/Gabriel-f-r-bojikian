@@ -2,7 +2,7 @@
 # Hello! 👋
 
 ## About me
-My name is Gabriel and I'm an Electrical Engineering undegrad student at 🎓 [University of São Paulo](https://www5.usp.br/)
+My name is Gabriel and I'm an Electrical Engineering undergrad student at 🎓 [University of São Paulo](https://www5.usp.br/)
 and I live in 📍 [São Paulo, Brazil](https://www.google.com.br/maps/place/S%C3%A3o+Paulo,+SP/@-23.5672063,-46.6798982,13.75z/data=!4m5!3m4!1s0x94ce448183a461d1:0x9ba94b08ff335bae!8m2!3d-23.5505199!4d-46.6333094).
 I'm an aspiring web dev and I'm currently learning everything I can about web development to start
 a career in the software engineering field. I'm currently specializing in front-end web development and enrolled at 🚀 [Rocketseat's](https://rocketseat.com.br/) Ignite bootcamp!
