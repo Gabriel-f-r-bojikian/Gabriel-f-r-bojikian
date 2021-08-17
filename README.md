@@ -22,7 +22,7 @@ The main technologies I'm learning, proficient at and/or interested in at the mo
 - 🏈 I've played flag (american) football for my university's team 
 
 ## External links
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-fernandes-rosa-bojikian-688b84164/)](https://www.linkedin.com/in/gabriel-fernandes-rosa-bojikian-688b84164/) [![Gmail Badge](https://img.shields.io/badge/-gabriel.f.r.bojikian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.f.r.bojikian@gmail.com)](mailto:gabriel.f.r.bojikian@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bojikian/)](https://www.linkedin.com/in/gabriel-bojikian/) [![Gmail Badge](https://img.shields.io/badge/-gabriel.f.r.bojikian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.f.r.bojikian@gmail.com)](mailto:gabriel.f.r.bojikian@gmail.com)
 
 <p>
    <a href="https://github.com/Gabriel-f-r-bojikian?tab=repositories">
