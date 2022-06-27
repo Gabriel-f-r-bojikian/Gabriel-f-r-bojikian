@@ -4,7 +4,7 @@
 ## About me
 My name is Gabriel and I'm an Electrical Engineering undergrad student at 🎓 [University of São Paulo](https://www5.usp.br/)
 and I live in 📍 [São Paulo, Brazil](https://www.google.com.br/maps/place/S%C3%A3o+Paulo,+SP/@-23.5672063,-46.6798982,13.75z/data=!4m5!3m4!1s0x94ce448183a461d1:0x9ba94b08ff335bae!8m2!3d-23.5505199!4d-46.6333094).
-I'm currently a software engineering intern at Goldman Sachs. 
+I'm currently an Electrical Engineering student at the University of São Paulo and a software engineering intern at Goldman Sachs. 
 
 ## Technologies I work with
 The main technologies I'm learning, proficient at and/or interested in at the moment include, but are not limited to:
@@ -18,7 +18,7 @@ The main technologies I'm learning, proficient at and/or interested in at the mo
 ## Some additional info about me
 - 🎮 I like to play videogames in my spare time, especially if they are competitive in nature.
 - 🖥️ I'm a PC gamer!
-- 🏈 I've played flag (american) football for my university's team 
+- 🏈 I play (flag) american football for my university's team 
 
 ## External links
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bojikian/)](https://www.linkedin.com/in/gabriel-bojikian/) [![Gmail Badge](https://img.shields.io/badge/-gabriel.bojikian.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.bojikian.dev@gmail.com)](mailto:gabriel.bojikian.dev@gmail.com)
