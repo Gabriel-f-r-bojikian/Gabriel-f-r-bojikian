@@ -4,7 +4,7 @@
 ## About me
 My name is Gabriel and I'm an Electrical Engineering undergrad student at 🎓 [University of São Paulo](https://www5.usp.br/)
 and I live in 📍 [São Paulo, Brazil](https://www.google.com.br/maps/place/S%C3%A3o+Paulo,+SP/@-23.5672063,-46.6798982,13.75z/data=!4m5!3m4!1s0x94ce448183a461d1:0x9ba94b08ff335bae!8m2!3d-23.5505199!4d-46.6333094).
-I'm currently an Electrical Engineering student at the University of São Paulo and a software engineering intern at Goldman Sachs. 
+I'm currently a software engineering intern at Goldman Sachs. 
 
 ## Technologies I work with
 The main technologies I'm learning, proficient at and/or interested in at the moment include, but are not limited to:
