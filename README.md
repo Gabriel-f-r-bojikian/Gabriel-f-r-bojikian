@@ -17,7 +17,7 @@ My carrer is on full-stack software engineerings. I've had experience working at
 ## External links
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bojikian/)](https://www.linkedin.com/in/gabriel-bojikian/) [![Gmail Badge](https://img.shields.io/badge/-gabriel.bojikian.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.bojikian.dev@gmail.com)](mailto:gabriel.bojikian.dev@gmail.com)
 
-<p>
+/*<p>
    <a href="https://github.com/Gabriel-f-r-bojikian?tab=repositories">
     <img
       align="center"
@@ -34,7 +34,7 @@ My carrer is on full-stack software engineerings. I've had experience working at
     />
   </a>
 
-</p>
+</p>*/
 <!--
 **Gabriel-f-r-bojikian/Gabriel-f-r-bojikian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
