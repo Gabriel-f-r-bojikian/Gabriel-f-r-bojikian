@@ -17,24 +17,6 @@ My carrer is on full-stack software engineerings. I've had experience working at
 ## External links
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bojikian/)](https://www.linkedin.com/in/gabriel-bojikian/) [![Gmail Badge](https://img.shields.io/badge/-gabriel.bojikian.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.bojikian.dev@gmail.com)](mailto:gabriel.bojikian.dev@gmail.com)
 
-/*<p>
-   <a href="https://github.com/Gabriel-f-r-bojikian?tab=repositories">
-    <img
-      align="center"
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-f-r-bojikian&langs_count=8&layout=compact&theme=dracula"
-    />
-  </a>
-&nbsp;
-  <a href="https://github.com/Gabriel-f-r-bojikian?tab=repositories">
-    <img
-      align="center"
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=Gabriel-f-r-bojikian&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dracula"
-    />
-  </a>
-
-</p>*/
 <!--
 **Gabriel-f-r-bojikian/Gabriel-f-r-bojikian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
