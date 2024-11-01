@@ -5,7 +5,7 @@
 My name is Gabriel and I'm a Software Engineer. I've graduated at 🎓 [University of São Paulo](https://www5.usp.br/) with an Electrical Engineering degree.
 I live in 📍 [São Paulo, Brazil](https://www.google.com.br/maps/place/S%C3%A3o+Paulo,+SP/@-23.5672063,-46.6798982,13.75z/data=!4m5!3m4!1s0x94ce448183a461d1:0x9ba94b08ff335bae!8m2!3d-23.5505199!4d-46.6333094).
 
-My carrer is on full-stack software engineerings. I've had experience working at large a financial corporation developing web applications that aid traders to conduct their work and manage their client workflows, from quoting products to clients all the way to booking trades.
+My carrer is on full-stack software engineering. I've had experience working at large a financial corporation developing web applications in Java + Javascript that aid traders to conduct their work and manage their client workflows, from quoting products to clients all the way to booking trades.
 
 
 ## Some additional info about me
